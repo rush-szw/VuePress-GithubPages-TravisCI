@@ -28,12 +28,14 @@ module.exports = {
         //侧边栏
         sidebar: 'auto',
         // sidebar: [
+        //     '/'
+        //   ],
+        // sidebar: [
         //     ['/pages/思路.md', '思路'],
-        //     ['/pages/创建Github仓库.md', '创建Github仓库'],
-        //     ['/pages/配置VuePress.md', '配置VuePress'],
-        //     ['/pages/TravisCI生成和发布.md', 'TravisCI生成和发布'],
+        //     // ['/pages/创建Github仓库.md', '创建Github仓库'],
+        //     // ['/pages/配置VuePress.md', '配置VuePress'],
+        //     // ['/pages/TravisCI生成和发布.md', 'TravisCI生成和发布'],
         // ],
-
         // 假定是 GitHub. 同时也可以是一个完整的 GitLab URL
         repo: 'Tsanfer/VuePress-GithubPages-TravisCI',
         // 自定义仓库链接文字。默认从 `themeConfig.repo` 中自动推断为
