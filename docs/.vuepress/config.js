@@ -44,9 +44,9 @@ module.exports = {
         smoothScroll: true, //页面滚动效果
         lastUpdated: '最后更新', // string | boolean
         plugins: [
-            '@vuepress/medium-zoom',    //zooming images like Medium（页面弹框居中显示）
+            // '@vuepress/medium-zoom',    //zooming images like Medium（页面弹框居中显示）
             // '@vuepress/nprogress',  //网页加载进度条
-            '@vuepress/plugin-back-to-top', //返回页面顶部按钮
+            // '@vuepress/plugin-back-to-top', //返回页面顶部按钮
         ]
 	},
 }
